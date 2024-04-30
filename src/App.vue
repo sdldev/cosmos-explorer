@@ -7,7 +7,6 @@ onMounted(() => {
   themeChange(false);
 });
 </script>
-
 <template>
   <div>
     <RouterView />
